@@ -1,8 +1,8 @@
-import javax.swing.*;
-import java.awt.*;
+import javax.swing.*; //GUI
+import java.awt.*; //gui
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.*;
+import java.io //input output
 import java.util.ArrayList;
 
 public class NatalityPanel extends JPanel {
